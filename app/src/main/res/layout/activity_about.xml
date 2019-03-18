@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Display"
+    tools:context=".AboutActivity">
+
+    <TextView
+        style="@style/Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/author"
+        android:textSize="32dp"
+        android:text="Autor"/>
+    <TextView
+        android:id="@+id/author"
+        style="@style/Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="32dp"
+        android:text="Konrad Krawczyk"/>
+    <TextView
+        style="@style/Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/author"
+        android:textSize="32dp"
+        android:text="206063"/>
+
+
+</RelativeLayout>

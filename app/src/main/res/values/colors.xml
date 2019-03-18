@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFunButtonsBG">#2d2d2d</color>
+    <color name="colorFunButtonsTxt">#c4c4c4</color>
+    <color name="colorNumButtonsBG">#c4c4c4</color>
+    <color name="colorNumButtonsTxt">#2d2d2d</color>
+    <color name="colorDisplayBG">#000000</color>
+    <color name="colorDisplayTxt">#ffffff</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorFunButtonScienceBG">#630606</color>
+    <color name="colorButtonResult">#ff6a00</color>
+</resources>
